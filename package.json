@@ -1,0 +1,15 @@
+{
+  "name": "sls-compose",
+  "version": "0.1.0",
+  "description": "Compose middlewares for serverless",
+  "main": "lib/index.js",
+  "repository": "git@github.com:n6g7/sls-compose.git",
+  "author": "Nathan Gaberel <nathan@gnab.fr>",
+  "license": "MIT",
+  "scripts": {
+    "pretest": "standard"
+  },
+  "devDependencies": {
+    "standard": "^10.0.2"
+  }
+}
