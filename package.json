@@ -1,6 +1,6 @@
 {
   "name": "sls-compose",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Compose middlewares for serverless",
   "main": "lib/index.js",
   "repository": "git@github.com:n6g7/sls-compose.git",
